@@ -2,6 +2,9 @@
 
 // 3 tipos
 
+let nomew = alert("meu código JavaScript externo")
+alert(nomew)
+
 function Aula(){
 
    let nome = confirm('Clieque nesta  buceta')

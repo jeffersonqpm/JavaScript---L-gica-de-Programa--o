@@ -7,7 +7,7 @@ alert(nomew)
 
 function Aula(){
 
-   let nome = confirm('Clieque nesta  buceta')
+   let nome = confirm('Clieque')
 
    if(nome == true){
 
